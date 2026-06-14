@@ -26,8 +26,16 @@ Deep learning pipeline for identifying potato fields from satellite imagery.
 ---
 
 ### 🛰️ SatMAE Research
+</td>
 
-<img align="right" alt="architecture_diagram" src="https://github.com/user-attachments/assets/52d24172-c09d-47ed-b4e7-14d72b456f05" width="300"/> 
+<td width="45%" valign="top" align="center">
+
+<img src="https://github.com/user-attachments/assets/52d24172-c09d-47ed-b4e7-14d72b456f05" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 Research into self-supervised learning for remote sensing imagery.
 
 **Tech:** PyTorch · Transformers · SatMAE
