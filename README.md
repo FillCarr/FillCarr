@@ -89,6 +89,8 @@ Enterprise GIS analytics and automation supporting emergency services.
 * Rasterio
 * GDAL
 * xarray
+* SATMAE
+* Transformers
 * U-Net
 * PSETAE
 * Remote Sensing
