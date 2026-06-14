@@ -1,3 +1,4 @@
+<img width="9113" height="3285" alt="architecture_diagram" src="https://github.com/user-attachments/assets/52d24172-c09d-47ed-b4e7-14d72b456f05" />
 # 👋 Hi, I'm Philip Carr
 
 **Geospatial AI Engineer | Machine Learning | Remote Sensing | Python**
