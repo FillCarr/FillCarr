@@ -1,4 +1,3 @@
-<img width="9113" height="3285" alt="architecture_diagram" src="https://github.com/user-attachments/assets/52d24172-c09d-47ed-b4e7-14d72b456f05" />
 # 👋 Hi, I'm Philip Carr
 
 **Geospatial AI Engineer | Machine Learning | Remote Sensing | Python**
@@ -11,7 +10,7 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 ### 🌾 Potato Crop Detection
 
-<img align="right" src="./images/potato.png" width="300"/>
+<img align="right" src="./images/potato.png" width="300"/> 
 
 Deep learning pipeline for identifying potato fields from satellite imagery.
 
@@ -28,8 +27,7 @@ Deep learning pipeline for identifying potato fields from satellite imagery.
 
 ### 🛰️ SatMAE Research
 
-<img align="right" src="./images/satmae.png" width="300"/>
-
+<img align="right" alt="architecture_diagram" src="https://github.com/user-attachments/assets/52d24172-c09d-47ed-b4e7-14d72b456f05" width="300"/> 
 Research into self-supervised learning for remote sensing imagery.
 
 **Tech:** PyTorch · Transformers · SatMAE
