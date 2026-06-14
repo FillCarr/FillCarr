@@ -1,55 +1,84 @@
-[## Hi there 👋
+# 👋 Hi, I'm Philip Carr
 
-<!--
-**FillCarr/FillCarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Geospatial AI Engineer | Machine Learning | Remote Sensing | Python**
 
-Here are some ideas to get you started:
+I build machine learning systems that turn satellite imagery and large-scale spatial data into real-world insights for agriculture, infrastructure, and emergency services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://www.linkedin.com/in/philip-carr/)# 👋 Hi, I'm Philip Carr
+---
 
-I'm a **Geospatial AI Engineer** with 4+ years of experience building machine learning, remote sensing, and large-scale geospatial analytics solutions.
+## 🚀 Featured Projects
 
-## 🚀 What I Work On
+### 🌾 Potato Crop Detection
 
-* 🛰️ GeoAI and remote sensing
-* 🤖 Machine learning and deep learning
-* 🌾 Satellite imagery and crop classification
-* 🗺️ GIS automation with Python and ArcGIS
-* 📊 Geospatial data engineering and analytics
+<img align="right" src="./images/potato.png" width="300"/>
 
-## 🛠️ Technologies
+Deep learning pipeline for identifying potato fields from satellite imagery.
 
-* **Languages:** Python, SQL
-* **ML/DL:** PyTorch, TensorFlow, scikit-learn
-* **GIS:** ArcGIS Pro, ArcPy, GeoPandas, GDAL, Rasterio
-* **Data:** xarray, Shapely, GeoTIFF, COG, GeoParquet, NetCDF
-* **Domains:** Semantic Segmentation, Time Series, Remote Sensing, Computer Vision
+**Tech:** Python · PyTorch · U-Net · PSETAE · ArcGIS
 
-## 📌 Featured Projects
+* Multi-date RGB composites
+* Temporal modeling
+* Semantic segmentation
+* F1 and mIoU evaluation
 
-* 🌾 **Potato Crop Detection** – Deep learning workflows using U-Net and temporal imagery for satellite-based crop mapping.
-* 🛰️ **SatMAE Research** – Exploring self-supervised learning and transformer architectures for remote sensing.
-* 🚑 **EMS Analytics** – Built geospatial pipelines and optimization tools supporting emergency services operations.
-* 📍 **Raster Processing** – Automated conversion and optimization of large-scale raster datasets into Cloud Optimized GeoTIFFs (COGs).
+<br clear="right"/>
 
-## 🎓 Education
+---
 
-* M.S. Computer Science – University of Massachusetts Dartmouth
-* Graduate Certificate in Geographic Information Systems – University of Connecticut
-* B.A. Urban Studies – University of Connecticut
+### 🛰️ SatMAE Research
+
+<img align="right" src="./images/satmae.png" width="300"/>
+
+Research into self-supervised learning for remote sensing imagery.
+
+**Tech:** PyTorch · Transformers · SatMAE
+
+* Masked autoencoders
+* Satellite feature learning
+* Foundation models for GeoAI
+
+<br clear="right"/>
+
+---
+
+### 🚑 EMS Analytics
+
+<img align="right" src="./images/ems.png" width="300"/>
+
+Enterprise GIS analytics and automation supporting emergency services.
+
+**Tech:** Python · ArcGIS · SQL
+
+* Workflow automation
+* Asset optimization
+* Geospatial analytics
+* K-means clustering
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Skills
+
+* Python
+* SQL
+* PyTorch
+* TensorFlow
+* ArcGIS Pro
+* ArcPy
+* GeoPandas
+* Rasterio
+* GDAL
+* xarray
+* U-Net
+* PSETAE
+* Remote Sensing
+* Computer Vision
+
+---
 
 ## 📫 Connect
 
-* LinkedIn: *(add your profile link)*
-* Email: **[ockley.carr@gmail.com](mailto:ockley.carr@gmail.com)**
+* 💼 [LinkedIn](https://www.linkedin.com/in/philip-carr/)
 
-> *Passionate about turning large-scale spatial data into production-ready AI solutions that solve real-world problems.*
+> Building production-ready GeoAI solutions with machine learning and satellite imagery.
