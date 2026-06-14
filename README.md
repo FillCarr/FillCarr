@@ -42,10 +42,19 @@ Research into self-supervised learning for remote sensing imagery.
 
 ### 🚑 EMS Analytics
 
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/31afb790-7fa6-4a23-92f7-f2423886503e" width="300"/><br><br>
-  <img src="https://github.com/user-attachments/assets/14d1bd7f-cb3b-45af-acd9-923fb4df6027" width="300"/>
-</p>
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="https://github.com/user-attachments/assets/31afb790-7fa6-4a23-92f7-f2423886503e" width="100%"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/14d1bd7f-cb3b-45af-acd9-923fb4df6027" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 Enterprise GIS analytics and automation supporting emergency services.
 
