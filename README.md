@@ -10,13 +10,21 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 ### 🌾 Potato Crop Detection
 
-<img align="right" src="./images/potato.png" width="300"/> 
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="https://github.com/user-attachments/assets/dd0c58c9-bded-4d98-9852-201e1bdc96f8" /> width="100%"/>
+
+</td>
+</tr>
+</table>
 
 Deep learning pipeline for identifying potato fields from satellite imagery.
 
 **Tech:** Python · PyTorch · U-Net · PSETAE · ArcGIS
 
-* Multi-date RGB composites
+* Multi-date RGB multi-dimensional imagery
 * Temporal modeling
 * Semantic segmentation
 * F1 and mIoU evaluation
