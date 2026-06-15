@@ -14,7 +14,7 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 <td width="45%" valign="top" align="center">
 
-<img src="https://github.com/user-attachments/assets/dd0c58c9-bded-4d98-9852-201e1bdc96f8" /> width="100%"/>
+<img src="https://github.com/user-attachments/assets/dd0c58c9-bded-4d98-9852-201e1bdc96f8" width="100%"/>
 
 </td>
 </tr>
