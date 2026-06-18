@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Philip Carr
+👋 Hi, I'm Philip Carr
 
 **Geospatial AI Engineer | Machine Learning | Remote Sensing | Python**
 
@@ -6,7 +6,7 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 ### 🌾 Potato Crop Detection
 
@@ -14,7 +14,7 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 <td width="45%" valign="top" align="center">
 
-<img src="https://github.com/user-attachments/assets/aa66ae02-ec0c-4324-8ca1-b9660a49d19b" width="100%"/>
+<img src="https://github.com/user-attachments/assets/b4a94d79-7509-4391-82ef-fd8ad1dcbbe9" width="100%"/>
 
 </td>
 </tr>
