@@ -8,7 +8,7 @@ I build machine learning systems that turn satellite imagery and large-scale spa
 
 🚀 Featured Projects
 
-### 🌾 Potato Crop Detection
+🌾 Potato Crop Detection
 
 </td>
 
@@ -33,7 +33,7 @@ Deep learning pipeline for identifying potato fields from satellite imagery.
 
 ---
 
-### 🛰️ SatMAE Research
+🛰️ SatMAE Research
 </td>
 
 <td width="45%" valign="top" align="center">
@@ -56,7 +56,7 @@ Research into self-supervised learning for remote sensing imagery.
 
 ---
 
-### 🚑 EMS Analytics
+ 🚑 EMS Analytics
 
 </td>
 
@@ -85,7 +85,7 @@ Enterprise GIS analytics and automation supporting emergency services.
 
 ---
 
-## 🛠️ Skills
+🛠️ Skills
 
 * Python
 * SQL
@@ -106,7 +106,7 @@ Enterprise GIS analytics and automation supporting emergency services.
 
 ---
 
-## 📫 Connect
+📫 Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/philip-carr/)
 
